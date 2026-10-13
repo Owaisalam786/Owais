@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Owais Alam — Python and Data Analytics</title>
+  <desc id="desc">A dark purple and blue gradient banner with a subtle animated glow and developer-themed headline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101124"/>
+      <stop offset="55%" stop-color="#25104b"/>
+      <stop offset="100%" stop-color="#092b46"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity=".7"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#a5b4fc" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <ellipse cx="930" cy="90" rx="260" ry="180" fill="url(#glow)">
+    <animate attributeName="cx" values="900;1000;900" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="220;290;220" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+  <g fill="none" stroke="#c084fc" stroke-opacity=".45" stroke-width="2">
+    <path d="M850 70h70v70h-70z"><animateTransform attributeName="transform" type="rotate" from="0 885 105" to="360 885 105" dur="24s" repeatCount="indefinite"/></path>
+    <circle cx="1030" cy="210" r="58"><animate attributeName="r" values="50;65;50" dur="5s" repeatCount="indefinite"/></circle>
+    <path d="M980 40l70 40-70 40-70-40z"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="76" y="84" fill="#c4b5fd" font-size="20" letter-spacing="5">HELLO, WORLD!</text>
+    <text x="72" y="157" fill="#ffffff" font-size="62" font-weight="700">OWAIS ALAM</text>
+    <text x="76" y="205" fill="#dbeafe" font-size="27">Python • Data Analytics • Continuous Learning</text>
+    <rect x="76" y="238" width="300" height="3" rx="1.5" fill="#c084fc"/>
+    <text x="76" y="274" fill="#cbd5e1" font-size="17">Building skills, one project at a time.</text>
+  </g>
+  <g transform="translate(1010 120)" fill="#e9d5ff" font-family="monospace" font-size="26" font-weight="700">
+    <text x="0" y="0">{ }</text>
+    <text x="-18" y="35" font-size="18" fill="#93c5fd">0101</text>
+  </g>
+</svg>
