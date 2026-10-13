@@ -77,3 +77,20 @@ I'm growing my portfolio. I’ll feature projects here as they’re ready, inclu
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed,0891b2&height=90&section=footer" width="100%" alt="Decorative gradient footer"/>
 </div>
+
+
+## 🌐 Personal Portfolio Website
+
+A responsive, minimal portfolio website is available in this repository's `index.html`. It includes a dark/light theme, project showcase, skills, learning resources, and contact links.
+
+- **Website source:** [Open index.html](https://github.com/Owaisalam786/Owais/blob/main/index.html)
+- **GitHub profile:** [@Owaisalam786](https://github.com/Owaisalam786)
+
+### Publish the website with GitHub Pages
+
+1. Open this repository's **Settings → Pages**.
+2. Under **Build and deployment**, choose **Deploy from a branch**.
+3. Select the `main` branch and the `/(root)` folder, then save.
+4. Wait for GitHub Pages to publish. The Pages settings will show the exact live URL.
+
+Before sharing the site with recruiters, replace project ideas with completed work and confirm that the displayed skills match your current experience.
