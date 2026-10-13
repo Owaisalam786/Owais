@@ -1,60 +1,79 @@
 <!--
-  Owais Alam | GitHub profile and project introduction
-  Keep this README accurate as your skills and projects grow.
+  Owais Alam | Personal profile README
+  Focus: Python learning and data analytics.
 -->
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Owaisalam786/Owais/main/assets/profile-banner.svg" alt="Owais Alam — Python, Data Analytics and Continuous Learning" width="100%" />
 
-# Hi, I'm Owais Alam 👋
+  <br/>
 
-### Python Learner • Aspiring Data Analyst
+  <a href="https://github.com/Owaisalam786"><img src="https://img.shields.io/badge/GitHub-Owaisalam786-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+  <img src="https://img.shields.io/badge/Focus-Python%20%26%20Data%20Analytics-7c3aed?style=for-the-badge" alt="Python and data analytics"/>
+  <img src="https://img.shields.io/badge/Always-Learning-0891b2?style=for-the-badge" alt="Always learning"/>
 
-I’m building my skills in Python and data analytics by practicing, exploring datasets, and creating projects one step at a time.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Owaisalam786-181717?style=for-the-badge&logo=github)](https://github.com/Owaisalam786)
-
+  <h3>Hi there! I'm Owais Alam 👋</h3>
+  <p><b>Aspiring Data Analyst · Python Learner · Curious Problem Solver</b></p>
+  <p>Learning by building, improving through practice, and turning curiosity into useful projects.</p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ✨ About Me
 
-- 🐍 Learning Python and strengthening my programming fundamentals.
-- 📊 Exploring data analytics and working with data using tools such as pandas.
-- 🧠 Interested in turning raw data into clear, useful insights.
-- 🛠️ Learning by writing code, solving errors, and building practical projects.
-- 🌱 Focused on consistent improvement and documenting what I learn.
+- 🐍 Learning Python and strengthening my programming foundations.
+- 📊 Exploring data analytics and data manipulation with pandas.
+- 🔎 Interested in finding patterns and communicating insights clearly.
+- 🧩 Enjoy solving coding problems and learning from debugging.
+- 🌱 Building a project portfolio step by step.
 
-## 🧰 Tools & Technologies
+## 🛠️ My Learning Toolkit
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</div>
 
-## 🎯 Current Focus
+## 🎯 What I'm Working Toward
 
-- Practicing Python through small, hands-on programs.
-- Learning data handling and analysis with pandas.
-- Improving code readability and project documentation.
-- Building a portfolio of practical projects.
+| Focus | Goal |
+| --- | --- |
+| Python | Write clear, reusable programs and strengthen fundamentals |
+| Data analytics | Practice cleaning, exploring, and understanding datasets |
+| Visualization | Learn to present findings in a clear and meaningful way |
+| Portfolio | Publish projects with readable code and helpful documentation |
 
-## 📌 Projects
+## 🚀 Projects
 
-I’m developing my portfolio. As projects become ready, I’ll add concise descriptions, screenshots, instructions, and what I learned from each one here.
+I'm growing my portfolio. I’ll feature projects here as they’re ready, including what each project does, the tools used, how to run it, and what I learned.
 
-> **Note:** This repository is a personal introduction and learning space. My portfolio will grow as I publish more projects.
+- **[Owais](https://github.com/Owaisalam786/Owais)** — my profile and learning space.
+- **[Portfolio](https://github.com/Owaisalam786/portfolio)** — portfolio repository; project details will be added as the work develops.
 
-## 🤝 Connect
+## 📈 GitHub Activity
 
-- GitHub: [@Owaisalam786](https://github.com/Owaisalam786)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Owaisalam786&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owaisalam786&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Owaisalam786&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="75%"/>
+</div>
+
+> Stats and streak cards are provided by external services and may take time to load or be temporarily unavailable.
+
+## 🤝 Let's Connect
+
+- **GitHub:** [@Owaisalam786](https://github.com/Owaisalam786)
 
 ---
 
 <div align="center">
-
-*Learning consistently. Building practically. Improving every day.*
-
+  <i>“Small steps every day lead to big progress.”</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed,0891b2&height=90&section=footer" width="100%" alt="Decorative gradient footer"/>
 </div>
